@@ -1,6 +1,6 @@
 ﻿
 # 🧭 Arctic Expedition Planner
-![Title Card](images/aep_gui_header.png)
+![Title Card](assets/aep_gui_header.png)
 
 **A powerful, interactive desktop tool for planning Arctic expeditions with precision.**  
 Built in Python with a GUI powered by Tkinter, this tool supports geolocation, route planning, altitude profiling, live map interaction, and exporting to PDF or JSON.
@@ -30,6 +30,7 @@ Built in Python with a GUI powered by Tkinter, this tool supports geolocation, r
 
 ## 📁 Project Structure
 
+```
 ArcticExpeditionPlanner/
 │
 ├── assets/                 # Header image, example JSON, screenshots
@@ -44,6 +45,7 @@ ArcticExpeditionPlanner/
 ├── requirements.txt
 ├── LICENSE.txt
 └── README.md
+```
 
 ---
 
@@ -102,7 +104,7 @@ Includes tests for:
 - Utility functions
 - Export functionality
 
-- Expected output:
+### Expected output:
 ```
 ..................
 ----------------------------------------------------------------------
@@ -113,7 +115,7 @@ OK
 
 ---
 
-## 💾 Sample Output (`example_itinerary_.json`)
+## 💾 Sample Output (`example_itinerary.json`)
 ```json
 {
   "itinerary": [
