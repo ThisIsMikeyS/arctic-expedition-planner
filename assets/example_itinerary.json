@@ -1,0 +1,28 @@
+{
+  "itinerary": [
+    {
+      "name": "Base Camp",
+      "latitude": 70.0000,
+      "longitude": 20.0000,
+      "distance_km": 0.0,
+      "estimated_speed_kph": 8.0,
+      "altitude_m": 150
+    },
+    {
+      "name": "Glacier View",
+      "latitude": 70.1000,
+      "longitude": 20.2000,
+      "distance_km": 12.5,
+      "estimated_speed_kph": 10.0,
+      "altitude_m": 300
+    },
+    {
+      "name": "Aurora Point",
+      "latitude": 70.2500,
+      "longitude": 20.4500,
+      "distance_km": 18.3,
+      "estimated_speed_kph": 9.5,
+      "altitude_m": 280
+    }
+  ]
+}
