@@ -1,6 +1,6 @@
 ﻿
 # 🧭 Arctic Expedition Planner
-![Title Card](assets/aep_gui_header.png)
+![Title Card](assets/screenshots/aep-thumbnail.png)
 
 **A powerful, interactive desktop tool for planning Arctic expeditions with precision.**  
 Built in Python with a GUI powered by Tkinter, this tool supports geolocation, route planning, altitude profiling, live map interaction, and exporting to PDF or JSON.
