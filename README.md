@@ -4,6 +4,7 @@
 
 **A powerful, interactive desktop tool for planning Arctic expeditions with precision.**  
 
+
 Built in Python with a GUI powered by Tkinter, this tool supports geolocation, route planning, altitude profiling, live map interaction, and exporting to PDF or JSON.
 
 ---
@@ -85,7 +86,7 @@ ArcticExpeditionPlanner/
 
 To start the GUI:
 ```bash
-python src/gui.py
+python -m src.gui
 ```
 
 **Note:** Ensure you have internet access for elevation API and map click functionality.
